@@ -1,4 +1,4 @@
-# EXAM-ROUTINE-SYSTEM-SDP-2-BUBT
+EXAM-ROUTINE-SYSTEM-SDP-2-BUBT
 ===============================
 
 1. Start MySQL in XAMPP Control Panel.
