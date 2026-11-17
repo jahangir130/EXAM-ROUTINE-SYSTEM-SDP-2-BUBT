@@ -1,9 +1,5 @@
 # EXAM-ROUTINE-SYSTEM-SDP-2-BUBT
-
-
-
-EXAM ROUTINE SYSTEM
-===================
+===============================
 
 1. Start MySQL in XAMPP Control Panel.
 2. Install the libraries (once):
